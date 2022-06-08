@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\PV_UAS\handphone\handphone\bin\Debug\handphone.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\PV_UAS\handphone\handphone\bin\Debug\handphone.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\PV_UAS\handphone\handphone\obj\Debug\handphone.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\PV_UAS\handphone\handphone\obj\Debug\handphone.MainForm.resources
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\PV_UAS\handphone\handphone\obj\Debug\handphone.csproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\PV_UAS\handphone\handphone\obj\Debug\handphone.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\PV_TugasLatihan\PV_UAS\handphone\handphone\obj\Debug\handphone.pdb
